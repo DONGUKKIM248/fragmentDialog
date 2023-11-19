@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">fragmentDialog</string>
+
+    <string-array name="course">
+        <item>개인정보 침해</item>
+        <item>부적절한 사진</item>
+        <item>부적절한 내용</item>
+        <item>광고 및 스팸</item>
+        <item>욕설</item>
+        <item>혐오표현</item>
+        <item>기타</item>
+
+    </string-array>
+</resources>
